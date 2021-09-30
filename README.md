@@ -1,2 +1,2 @@
-# DSA-Self-Placed
-Solution of contests and track problems from GFG'S DSA Self Placed course
+# DSA-Self-Paced
+Solution of contests and track problems from GFG'S DSA Self Paced course
